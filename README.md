@@ -1,6 +1,15 @@
-# Linux Operations Toolkit
+<h1 align="center">Linux Operations Toolkit</h1>
 
-Linux operational tooling, infrastructure automation scripts, troubleshooting workflows, system hardening practices, and operational engineering procedures.
+<p align="center">
+  Linux Operations tooling • Infrastructure Engineering • Automation • Monitoring • Troubleshooting workflows • System Hardening Practices • Operational Engineering Procedures
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Operations-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash-Automation-2E8BFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Monitoring-Observability-CC0000?style=for-the-badge">
+</p>
 
 ---
 
